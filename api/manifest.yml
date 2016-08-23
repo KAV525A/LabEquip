@@ -1,0 +1,11 @@
+applications:
+ - name: labequip
+   instances: 1
+   memory: 1G
+   disk_quota: 1G
+   path: target/api-0.0.1-SNAPSHOT.jar
+   buildpack: liberty-for-java
+
+davidwambugu@gatech.edu
+
+Free Lunch [Sams Class]

@@ -1,0 +1,10 @@
+com/labequip/controllers/ResourceController.class
+com/labequip/ApiApplication.class
+com/labequip/config/AppConfig.class
+com/labequip/controllers/UsersController.class
+com/labequip/models/Item.class
+com/labequip/models/Order.class
+com/labequip/repositories/ItemsRepository.class
+com/labequip/controllers/ItemsController.class
+com/labequip/repositories/UsersRepository.class
+com/labequip/models/User.class
